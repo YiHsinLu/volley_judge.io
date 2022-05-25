@@ -38,7 +38,7 @@ $\mathcal{Yi.Hsin}\;\mathcal{Lu}$
 
 ![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire01.jpg)
 
-* 延誤發球(8秒違例)
+* 延誤發球(8秒違例, 圖片有誤:手勢為雙手，失分方比3；得分方比5)
 
 ![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire11.jpg)
 
@@ -101,6 +101,14 @@ $\mathcal{Yi.Hsin}\;\mathcal{Lu}$
 * 替補
 
 ![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire05.jpg)
+
+* 輪轉錯誤
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire13.jpg)
+
+* 攔網違規
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire12.jpg)
 
 ****
 
@@ -167,7 +175,8 @@ $\mathcal{Yi.Hsin}\;\mathcal{Lu}$
   + 觸網
   + 越網
   + 越中線
-
+  + 輪轉錯誤
+  + 攔網違規
 
 ****
 
