@@ -1,0 +1,154 @@
+---
+title: " **【排球裁判簡單教學】** "
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+$\mathcal{Yi.Hsin}\;\mathcal{Lu}$
+
+****
+這個教學是比較簡單版的，只針對應數週只有一個人執法的情況。
+
+如果想要學更多的朋友可以加入[東華排球社](https://www.facebook.com/NDHUVolleyBall)，他們有更專業的裁判們可以教學。
+
+****
+
+![](https://miro.medium.com/max/1400/1*VcVrAHvohhnFiguexXWKGg.jpeg){width=100%}
+
+[image from](https://medium.com/@mia4soccer/becoming-a-volleyball-referee-b47953a1b831)
+
+****
+
+
+# **一、手勢**
+
+依照比賽進行的順序來介紹。
+
+****
+
+## **1. 發球**
+
+* 指示發球權
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire02.jpg)
+
+* 指示發球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire01.jpg)
+
+* 延誤發球(8秒違例)
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire11.jpg)
+
+* 發球踩線(指失分方底線)
+
+* 發球掛網(五指併攏貼網)
+
+****
+
+## **2. 比賽進行中**
+
+* 界內球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire14.jpg)
+
+* 界外球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire15.jpg)
+
+* 觸球出界(圖片有誤:手勢在左、右胸前)
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire24.jpg)
+
+* 四擊球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire18.jpg)
+
+* 連擊
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire17.jpg)
+
+* 持球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire16.jpg)
+
+* 後排攻擊犯規
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire21.jpg)
+
+* 觸網(圖片有誤:手勢為伍指併攏)
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire19.jpg)
+
+* 越網
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire20.jpg)
+
+* 越中線
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire22.jpg)
+
+* 公正球
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire23.jpg)
+
+* 暫停
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire04.jpg)
+
+* 替補
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire05.jpg)
+
+****
+
+## **3. 單局/整場結束**
+
+* 交換場地
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire03.jpg)
+
+* 結束
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire09.jpg)
+
+****
+
+## **4. 嚴重犯規**
+
+* 警告
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire06.jpg)
+
+* 延誤
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire25.jpg)
+
+
+* 驅逐出場
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire07.jpg)
+
+* 取消資格
+
+![](http://library.taiwanschoolnet.org/cyberfair2010/tjsps/images/classroom/umpire08.jpg)
+
+****
+
+# **二、比賽行程**
+
+以單局定勝負為例。
+
+* 決定球權
+  + 擲toss幣決定球權、場地
+* 比賽開始
+* 比賽結束
+* 雙方致意
+
+****
+
+# **三、總結**
+
+裁判必須讓比賽順利進行，能應付各種突發狀況。
